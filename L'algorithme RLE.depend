@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739581824 source:c:\users\lenovo\3d objects\algo rle\l'algorithme rle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
